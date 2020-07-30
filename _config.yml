@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student | Bibliophile | Seeker"
 #   location         : "Somewhere"
-  email            : chayanroyc24@gmail.com
+  email            : "chayanroyc24@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
