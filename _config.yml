@@ -94,10 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Chayan Roychoudhury"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/headshot88x88.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student | Bibliophile | Seeker"
-#   location         : "Somewhere"
+  location         : "Tucson, AZ"
   email            : "chayanroyc24@gmail.com"
+  linkedin         : "chayan-roychoudhury"
+  github           : "chayanroyc"
+  instagram        : "chayanraychaudhuri"
+  
   links:
     - label: "Email"
       icon: "fas fa-envelope"
@@ -105,8 +109,8 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Linkedln"
+      icon: "	fab fa-linkedin-in"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
