@@ -52,7 +52,7 @@ education:
 skills:
   - name: Technical
     items:
-       - name: Python
+      - name: Python
         description: ''
         percent: 80
         icon: python
@@ -119,9 +119,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/CR_CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
