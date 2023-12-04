@@ -5,7 +5,7 @@ authors:
 - Cenlin He
 - Rajesh Kumar
 - John M. McKinnon
-- Avelino F. Arellano Jr.
+- Avelino F. Arellano Jr
 date: '2022-01-01'
 publishDate: '2023-12-04T03:24:11.067552Z'
 publication_types:
