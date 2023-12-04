@@ -84,9 +84,9 @@ sections:
           date_start: '2023-01-01'
           date_end: '2023-12-31'
           description: |2-
-                        Assisted in the teaching of the following courses:
-                          * ATMO 430 – Computational Methods in Atmospheric Sciences
-                          * ATMO 469/569 – Air Pollution I: Gases
+              Assisted in the teaching of the following courses:
+              * ATMO 430 – Computational Methods in Atmospheric Sciences
+              * ATMO 469/569 – Air Pollution I: Gases
         - title: Guest Research Worker
           company: Bose Institute
           company_url: ''
