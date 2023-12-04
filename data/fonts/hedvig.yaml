@@ -5,7 +5,7 @@ name: hedvig
 google_fonts: ''
 
 # Font families
-#heading_font: Montserrat
-#body_font: Overpass
-#nav_font: Overpass
+heading_font: Hedvig Letters Serif
+body_font: Hedvig Letters Serif
+nav_font: Hedvig Letters Serif
 #mono_font: Overpass Mono
