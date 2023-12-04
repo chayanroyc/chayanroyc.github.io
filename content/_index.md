@@ -33,12 +33,12 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-      #   gradient_end: '#1976d2'
-      #   gradient_start: '#004ba0'
-      #   text_color_light: true
+        # gradient_end: '#1976d2'
+        # gradient_start: '#004ba0'
+        # text_color_light: true
         image:
         # Name of image in `assets/media/`.
-        filename: chris-montgomery-smgTvepind4-unsplash.jpg #erol-ahmed-snow.jpg
+        filename: erol-ahmed-snow.jpg #erol-ahmed-snow.jpg
         # Apply image filters?
         filters:
           # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
