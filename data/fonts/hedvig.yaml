@@ -1,5 +1,11 @@
 # Font style metadata
-name: "Hedvig Letters Serif"
+name = "hedvig"
+
 # Optional Google font URL
-google_fonts: "https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif"
+google_fonts = ""
+
 # Font families
+heading_font = "Montserrat"
+body_font = "Overpass"
+nav_font = "Overpass"
+mono_font = "Overpass Mono"
