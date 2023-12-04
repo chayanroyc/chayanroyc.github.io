@@ -62,27 +62,39 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Graduate Research Assistant
+          company: Department of Hydrology and Atmospheric Sciences, University of Arizona
           company_url: ''
-          company_logo: org-gc
-          location: California
+          company_logo: ua_stack_rgb_4
+          location: Tucson
           date_start: '2021-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description: Research in NASA-HiMAT2
+          #|2-
+          #     Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: Graduate Teaching Assistant
+          company: Department of Hydrology and Atmospheric Sciences, University of Arizona
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ua_stack_rgb_4
+          location: Tucson
+          date_start: '2023-01-01'
+          date_end: '2023-12-31'
+          description: |2-
+          Assisted in the teaching of the following courses:
+            * ATMO 430 – Computational Methods in Atmospheric Sciences
+            * ATMO 469/569 – Air Pollution I: Gases
+        - title: Guest Research Worker
+          company: Bose Institute
+          company_url: ''
+          company_logo: Bose_Institute_Emblem
+          location: Kolkata, India
+          date_start: '2019-08-01'
+          date_end: '2020-07-31'
+          description: Worked with Dr. Sanat K. Das
     design:
       columns: '2'
   - block: accomplishments
