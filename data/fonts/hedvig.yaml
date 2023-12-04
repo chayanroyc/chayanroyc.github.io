@@ -1,11 +1,11 @@
 # Font style metadata
-name = "hedvig"
+name: hedvig
 
 # Optional Google font URL
-google_fonts = ""
+google_fonts: ''
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Overpass"
-nav_font = "Overpass"
-mono_font = "Overpass Mono"
+#heading_font: Montserrat
+#body_font: Overpass
+#nav_font: Overpass
+#mono_font: Overpass Mono
