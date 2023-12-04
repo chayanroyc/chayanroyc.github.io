@@ -1,6 +1,5 @@
 ---
-title: Rethinking the Connection between Aerosols, Meteorology, and Snowmelt Patterns
-  in High Mountain Asia
+title: Unraveling the Complexities of Aerosol-Meteorology Interactions on Snowmelt in High Mountain Asia
 authors:
 - Chayan Roychoudhury
 - Cenlin He
